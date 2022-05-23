@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+th {
+    width: 25%;
+}
